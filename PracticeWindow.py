@@ -13,3 +13,8 @@ print(duplicateList)
 
 X = lambda a, b: a * b
 print(X(5, 4))
+
+X = lambda a, b: a * b
+print(X(5, 4))
+X = lambda a, b: a * b
+print(X(5, 4))
